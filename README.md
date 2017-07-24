@@ -1,4 +1,4 @@
-Spring Batch Export Clients Informations - SC
+Spring Batch Export Clients Demo Jobs
 =============================
 
 This project is part of the [GitHub][] on personal project.
